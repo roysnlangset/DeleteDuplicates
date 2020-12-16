@@ -1,0 +1,13 @@
+C:\Users\roylan\source\repos\DeleteDuplicates\bin\Debug\netcoreapp3.1\DeleteDuplicates.exe
+C:\Users\roylan\source\repos\DeleteDuplicates\bin\Debug\netcoreapp3.1\DeleteDuplicates.deps.json
+C:\Users\roylan\source\repos\DeleteDuplicates\bin\Debug\netcoreapp3.1\DeleteDuplicates.runtimeconfig.json
+C:\Users\roylan\source\repos\DeleteDuplicates\bin\Debug\netcoreapp3.1\DeleteDuplicates.runtimeconfig.dev.json
+C:\Users\roylan\source\repos\DeleteDuplicates\bin\Debug\netcoreapp3.1\DeleteDuplicates.dll
+C:\Users\roylan\source\repos\DeleteDuplicates\bin\Debug\netcoreapp3.1\DeleteDuplicates.pdb
+C:\Users\roylan\source\repos\DeleteDuplicates\obj\Debug\netcoreapp3.1\DeleteDuplicates.csprojAssemblyReference.cache
+C:\Users\roylan\source\repos\DeleteDuplicates\obj\Debug\netcoreapp3.1\DeleteDuplicates.AssemblyInfoInputs.cache
+C:\Users\roylan\source\repos\DeleteDuplicates\obj\Debug\netcoreapp3.1\DeleteDuplicates.AssemblyInfo.cs
+C:\Users\roylan\source\repos\DeleteDuplicates\obj\Debug\netcoreapp3.1\DeleteDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\roylan\source\repos\DeleteDuplicates\obj\Debug\netcoreapp3.1\DeleteDuplicates.dll
+C:\Users\roylan\source\repos\DeleteDuplicates\obj\Debug\netcoreapp3.1\DeleteDuplicates.pdb
+C:\Users\roylan\source\repos\DeleteDuplicates\obj\Debug\netcoreapp3.1\DeleteDuplicates.genruntimeconfig.cache
