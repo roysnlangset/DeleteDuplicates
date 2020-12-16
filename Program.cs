@@ -278,6 +278,7 @@ namespace DeleteDuplicates
                     Console.WriteLine("Console will close in 5 seconds");
                     Thread.Sleep(5000);
                     Environment.Exit(0);
+                    //Just for test pull requests
                 }
                 
             }
